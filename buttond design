@@ -1,1 +1,24 @@
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>button design</title>
+    <style>
+      button
+      {
+        color : black;
+        border:30px solid:#2a99ab;
+        padding:30px;
+        font-size:50px;
+        background-color:#00c4ff;
+        border-radius:30px;
+        margin:30px;
+        
+      }
+      </style>
+  </head>
+  <body>
+    <button>click me!</button>
+  </body>
+</html>
