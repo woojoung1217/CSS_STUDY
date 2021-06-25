@@ -1,0 +1,3 @@
+.box::before{
+  content:"앞";
+}
