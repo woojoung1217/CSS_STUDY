@@ -1,0 +1,10 @@
+div{
+  border: 1px solid;
+  border-radius: inherit;
+  width: 200px;
+  height:200px;
+  background-image: url(https://love2dev.com/img/2000px-instagram_logo_2016svg-2000x2000.png);
+  background-size: 30px;
+  background-repeat: no-repeat;
+  background-color: transparent;
+}
