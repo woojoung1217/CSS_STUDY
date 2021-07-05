@@ -1,0 +1,27 @@
+.conteiner{
+  width: 300px;
+  background-color: royalblue;
+}
+.conteiner .item{
+  border: 4px dashed red;
+  background-color: orange;
+}
+
+.conteiner .item:nth-child(1){
+  width: 100px;
+  height:100px;
+  
+}
+.conteiner .item:nth-child(1){
+  width: 100px;
+  height:100px; 
+}
+
+.conteiner .item:nth-child(2){
+  width: 140px;
+  height:70px;
+}
+.conteiner .item:nth-child(3){
+  width: 70px;
+  height:140px; 
+}
