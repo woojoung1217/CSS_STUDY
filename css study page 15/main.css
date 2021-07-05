@@ -20,8 +20,11 @@
 .conteiner .item:nth-child(2){
   width: 140px;
   height:70px;
+  position:relative;
+  top:100px;
+  left:100px;
 }
-.conteiner .item:nth-child(3){
+.conteiner .item:nth-child(3){ 
   width: 70px;
   height:140px; 
 }
