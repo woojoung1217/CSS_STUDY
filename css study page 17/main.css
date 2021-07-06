@@ -1,0 +1,21 @@
+
+.conteiner{
+  width: 300px;
+  background-color: royalblue;
+  position: static;
+  display: flex;
+}
+.conteiner .item{
+  border: 4px dashed red;
+  background-color: orange;
+  width: 100px;
+  height: 100px;
+}
+.conteiner .item:nth-child(1){
+}
+.conteiner .item:nth-child(2){
+
+}
+.conteiner .item:nth-child(3){
+  position: relative;
+}
