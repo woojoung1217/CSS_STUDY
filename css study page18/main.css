@@ -1,0 +1,20 @@
+.conteiner{
+  background-color: royalblue;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.conteiner .item{
+  width: 100px;
+  height:100px;
+  background-color: orange;
+  border: 3px dashed red;
+}
+.conteiner .item:nth-child(2)
+{
+  flex-grow: 2;
+  order:-1
+}
