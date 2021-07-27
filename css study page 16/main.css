@@ -2,6 +2,7 @@
   width: 300px;
   background-color: royalblue;
   position: relative;
+  overflow : hidden;
 }
 .conteiner .item{
   border: 4px dashed red;
